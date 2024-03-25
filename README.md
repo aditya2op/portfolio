@@ -8,6 +8,7 @@ Welcome to my Portfolio Website project! This website showcases my skills, proje
 - **Sanity CMS**: Integrated Sanity CMS as the backend to manage and update content seamlessly.
 - **SCSS**: Styled components with SCSS to enhance design flexibility and maintainability.
 - **Framer Motion**: Incorporated Framer Motion for smooth and captivating animations throughout the website.
+- Used upto Date coding practices with Concise Code, Higher Order Components and Forms.
 
 ## Installation
 
