@@ -1,4 +1,6 @@
-![Uploading image.png…]()
+<img width="1536" alt="image" src="https://github.com/aditya2op/portfolio/assets/140917322/4ca75a31-cdf1-4986-8b94-02c6cdcc8d67">
+<img width="1534" alt="image" src="https://github.com/aditya2op/portfolio/assets/140917322/f4157b76-9cdc-476d-9af2-7c9a38f627c3">
+
 # Portfolio Website
 
 Welcome to my Portfolio Website project! This website showcases my skills, projects, and experiences in a visually appealing and interactive manner. Built using React, Sanity CMS, SCSS, and Framer Motion, this project aims to provide an engaging user experience while highlighting my portfolio.
@@ -9,7 +11,7 @@ Welcome to my Portfolio Website project! This website showcases my skills, proje
 - **Sanity CMS**: Integrated Sanity CMS as the backend to manage and update content seamlessly.
 - **SCSS**: Styled components with SCSS to enhance design flexibility and maintainability.
 - **Framer Motion**: Incorporated Framer Motion for smooth and captivating animations throughout the website.
-- Used upto Date coding practices with Concise Code, Higher Order Components and Forms.
+- Used upto Date coding practices with Concise Code, Higher Order Components, Forms and Navigation with Dots.
 
 ## Installation
 
