@@ -1,3 +1,4 @@
+![Uploading image.png…]()
 # Portfolio Website
 
 Welcome to my Portfolio Website project! This website showcases my skills, projects, and experiences in a visually appealing and interactive manner. Built using React, Sanity CMS, SCSS, and Framer Motion, this project aims to provide an engaging user experience while highlighting my portfolio.
